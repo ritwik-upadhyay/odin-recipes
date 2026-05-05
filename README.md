@@ -1,0 +1,1 @@
+This is a recipes website created by HTML only. This project will help me to learn how to use HTML amd also certain git basics. 
